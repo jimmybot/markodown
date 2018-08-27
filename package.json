@@ -1,0 +1,15 @@
+{
+  "name": "markodown",
+  "version": "0.1",
+  "description": "A static-site generator based on Marko and Markdown",
+  "main": "index.js",
+  "repository": "git@github.com:jimmybot/markodown.git",
+  "author": "James Lee <jimmybot@jimmybot.com>",
+  "license": "Apache-2.0",
+  "scripts": {
+      "compile": "./compile.js"
+  },
+  "dependencies": {
+    "marko": "^4.12.5"
+  }
+}
